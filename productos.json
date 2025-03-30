@@ -1,0 +1,18 @@
+[
+    {
+        "id": 101,
+        "nombre": "Laptop Dell XPS",
+        "desc": "Laptop Intel i7",
+        "precio": 100500.99,
+        "imagen": "dell_xps.jpg",
+        "disponible": true
+    },
+    {
+        "id": 102,
+        "nombre": "Mouse Logitech MX",
+        "desc": "Mouse inalámbrico ergonómico",
+        "precio": 150.99,
+        "imagen": "logitech_mx.jpg",
+        "disponible": true
+    }
+]

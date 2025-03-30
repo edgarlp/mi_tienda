@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "nombre": "Edgar",
+      "apellido": "Rosso",
+      "email": "edgarrosso@email.com",
+      "contraseña": "1234abcd",
+      "es_admin": false
+    },
+    {
+      "id": 2,
+      "nombre": "Julia",
+      "apellido": "Acosta",
+      "email": "juliaacosta@email.com",
+      "contraseña": "abcd1234",
+      "es_admin": true
+    }
+  ]
+  

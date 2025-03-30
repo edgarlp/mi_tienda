@@ -1,0 +1,14 @@
+[
+    {
+        "id": 5001,
+        "id_usuario": 1,
+        "fecha": "2025-03-28",
+        "total": 1599.98,
+        "direccion": "Av. La Para 123",
+        "productos": [
+            101,
+            102
+        ],
+        "entregado": false
+    }
+]
